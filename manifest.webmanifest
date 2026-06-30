@@ -1,0 +1,11 @@
+{
+  "name": "Fixture Mundial 2026",
+  "short_name": "Mundial 2026",
+  "start_url": "/Fixture/mundial-2026-fixture-pwa.html",
+  "scope": "/Fixture/",
+  "display": "standalone",
+  "background_color": "#0b7a53",
+  "theme_color": "#0b7a53",
+  "description": "PWA del Mundial 2026 con JSON automático, banderas y conexiones entre partidos.",
+  "icons": []
+}
